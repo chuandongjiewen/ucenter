@@ -1,0 +1,10 @@
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354363903	login	succeed
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354373544	login	succeed
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354373707	user_delete	uid=13
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354408593	login	succeed
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354409544	user_delete	uid=16
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354535372	login	succeed
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354541965	login	succeed
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354541983	user_add	username=123
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354799631	login	succeed
+<?PHP exit;?>	UCenterAdministrator	127.0.0.1	1354799669	app_edit	appid=1
